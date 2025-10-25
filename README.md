@@ -90,7 +90,7 @@ This project demonstrates the ability to:
 
 ## 8.📸 Screenshots
 
-Preview - ![Dashboard Preview](https://github.com/ravisaini007/SCT_DS_2/blob/main/snapshot%20-1.png)
+          ![Dashboard Preview](https://github.com/ravisaini007/SCT_DS_2/blob/main/snapshot%20-1.png)
           ![Dashboard Preview](https://github.com/ravisaini007/SCT_DS_2/blob/main/snapshot%20-2.png)
           ![Dashboard Preview](https://github.com/ravisaini007/SCT_DS_2/blob/main/snapshot%20-3.png)
           ![Dashboard Preview](https://github.com/ravisaini007/SCT_DS_2/blob/main/snapshot%20-4.png)
